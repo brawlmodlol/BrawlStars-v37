@@ -28,10 +28,7 @@
       "version": "1.1714",
       "down": "https://kshk.floyzi.ru/SroyziBrawl/assets/SroyziBrawl_unsigned.ipa",
       "category": "Custom",
-      "changelog": "- Support for ARM32 devices (up to iOS 10)
-      - Battles using the 'BRAWL' button (thanks to PrimoDEVHacc)
-      - New server
-      - Later: server side update",
+      "changelog": "- Support for ARM32 devices (up to iOS 10)",
       "description": "Brawl Stars V1 Server",
       "bundleID": "com.kitenokgene.sroyziapple",
       "appstore": "com.kitenokgene.sroyziapple"
