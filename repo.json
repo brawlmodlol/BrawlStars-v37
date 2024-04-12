@@ -3,6 +3,7 @@
     "repoName": "Custom Repo",
     "repoIcon": "https://play-lh.googleusercontent.com/6qUR3CmTyz3lMdMK8GENfibQ9ZQIIgHIP3_pgnYcuG04ykheKtl-dhyPzjlvhF_MANI=s200-rw"
   },
+"apps": [
     {
       "name": "iPogo",
       "version": "0.301.0",
@@ -33,4 +34,5 @@
       "bundleID": "com.kitenokgene.sroyziapple",
       "appstore": "com.kitenokgene.sroyziapple"
     }
+   ]
  }
