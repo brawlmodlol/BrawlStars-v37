@@ -26,6 +26,7 @@
     {
       "name": "Sroyzi Brawl",
       "version": "1.1714",
+      "icon": "https://usescarlet.com/icon.png"
       "down": "https://kshk.floyzi.ru/SroyziBrawl/assets/SroyziBrawl_unsigned.ipa",
       "category": "Custom",
       "changelog": "- Support for ARM32 devices (up to iOS 10)",
