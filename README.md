@@ -11,7 +11,7 @@ Experimental Brawl Stars v37.222 server emulator written in Python.
 ### Running the server
 In a terminal, type __`pip install -r requirements.txt`__ then run the server using __`python main.py`__
 
-### Configuring the client app http://10.100.20.80:8080
+### Configuring the client app
 To connect to your server, a **patched client** is required. Download this [base APK](https://mega.nz/file/TbhCkCpL#tivStkGS_gAIZlGiQXl7CtPwgI1DCSLO7y_E6lfsGxQ) and change the IP in `libmg.config.so`. 
 
 ⚠️ This client is unstable and might crash sometimes. It is not recommended to use it for a production environment.
